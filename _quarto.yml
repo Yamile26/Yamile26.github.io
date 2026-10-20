@@ -1,9 +1,11 @@
 project:
   type: website
+  resources:
+    - google83f56b9cbf003c1f.html
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  site-url: https://yamile26.github.io # you must change this appropriately for RSS feeds to work properly
   title: "Demostraciones_de_ML"
   navbar:
     right:
@@ -16,6 +18,8 @@ format:
       - cosmo
       - brand
     css: styles.css
+
+
 
 
 
