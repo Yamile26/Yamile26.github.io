@@ -1,6 +1,6 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
+author: "Yamile del Aguila"
 date: "2026-10-18"
 categories: [news, code, analysis]
 image: "image.jpg"

@@ -13,8 +13,8 @@
 <lastBuildDate>Sun, 18 Oct 2026 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <dc:creator>Yamile del Aguila</dc:creator>
+  <link>https://your-website-url.example.com/posts/posts01-media-covarianza/</link>
   <description><![CDATA[ 
 
 
@@ -29,30 +29,9 @@
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <guid>https://your-website-url.example.com/posts/posts01-media-covarianza/</guid>
   <pubDate>Sun, 18 Oct 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Thu, 15 Oct 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/posts01-media-covarianza/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
