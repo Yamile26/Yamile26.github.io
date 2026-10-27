@@ -4,14 +4,16 @@ project:
     - google83f56b9cbf003c1f.html
 
 website:
-  description: "A blog built with Quarto"
+  description: "Un viaje para comprender los conceptos detrás de las fórmulas más famosas de la IA, con demostraciones paso a paso."
   site-url: https://yamile26.github.io # you must change this appropriately for RSS feeds to work properly
-  title: "Demostraciones_de_ML"
+  title: "Demostraciones de las fórmulas empleadas en IA"
   navbar:
     right:
       - about.qmd
       - icon: github
         href: https://github.com/Yamile26
+
+lang: es
 format:
   html:
     theme:
