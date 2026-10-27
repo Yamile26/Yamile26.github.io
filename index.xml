@@ -5,10 +5,10 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Demostraciones_de_ML</title>
+<title>Demostraciones de las fórmulas empleadas en IA</title>
 <link>https://yamile26.github.io/</link>
 <atom:link href="https://yamile26.github.io/index.xml" rel="self" type="application/rss+xml"/>
-<description>A blog built with Quarto</description>
+<description>Un viaje para comprender los conceptos detrás de las fórmulas más famosas de la IA, con demostraciones paso a paso.</description>
 <generator>quarto-1.10.19</generator>
 <lastBuildDate>Sun, 18 Oct 2026 05:00:00 GMT</lastBuildDate>
 <item>
