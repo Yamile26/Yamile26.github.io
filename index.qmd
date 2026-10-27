@@ -1,5 +1,5 @@
 ---
-title: "Demostraciones_de_ML"
+title: "Demostraciones de las fórmulas empleadas en IA"
 listing:
   contents: posts
   feed: true

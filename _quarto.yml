@@ -2,8 +2,7 @@ project:
   type: website
   resources:
     - google83f56b9cbf003c1f.html
-  resources:
-    - google83f56b9cbf003c1f.html
+    
 
 website:
   description: "Un viaje para comprender los conceptos detrás de las fórmulas más famosas de la IA, con demostraciones paso a paso."

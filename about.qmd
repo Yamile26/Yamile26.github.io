@@ -6,11 +6,10 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/yamile-del-aguila-valera-aa57a9402/
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/Yamile26
 ---
 
 About this blog
